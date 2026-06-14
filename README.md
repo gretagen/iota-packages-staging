@@ -1,4 +1,4 @@
-zereneOS staging branch for packages
+ZereneOS staging branch for packages
 
 
 i dont reccomend installing quite literally anything from here
